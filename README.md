@@ -14,15 +14,6 @@ at Beijing University of Technology (BJUT).
 - 🎧 HiFi audio enthusiast
 - 🌐 Interested in computer networks and systems
 
-## Tech Stack
-
-- Python / C
-- FastAPI / Flask
-- React
-- PostgreSQL / Redis
-- Docker / Linux
-- Git
-
 ## Research
 
 My current interests include:
@@ -31,8 +22,3 @@ My current interests include:
 - Explainable Recommendation
 - AI Agents
 - Multimodal AI
-
-## Contact
-
-- Email: your-email@example.com
-- GitHub: @your-username
