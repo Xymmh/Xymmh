@@ -8,17 +8,18 @@ at Beijing University of Technology (BJUT).
 
 ## About Me
 
-- 🎓 MSc Student @ NTU
-- 💻 Interested in AI, Backend Development and Intelligent Systems
-- 🔬 Interested in Large Language Models and Recommender Systems
-- 🎧 HiFi audio enthusiast
-- 🌐 Interested in computer networks and systems
+* 💻 Interested in Software Engineering, AI and Computer Systems
+* 🎨 Passionate about Photography, UI/UX Design and HiFi Audio
+* 🧠 Curious about Psychology, Philosophy and Sociology
+* 🌐 Enjoy exploring technology, creativity and human-centered experiences
+* 🛠️ I like building things that connect technology with real-world needs
 
 ## Research
 
-My current interests include:
+My current research interests include:
 
-- Large Language Models
-- Explainable Recommendation
-- AI Agents
-- Multimodal AI
+* Large Language Models (LLMs)
+* Recommender Systems
+* AI Agents
+* Strong Character & Character AI
+* AI & Psychology
