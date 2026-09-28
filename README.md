@@ -9,10 +9,10 @@ at Beijing University of Technology (BJUT).
 ## About Me
 
 * 💻 Interested in Software Engineering, AI and Computer Systems
-* 🎨 Passionate about Photography, UI/UX Design and HiFi Audio
+* 🌐 Passionate about Computer Networks, Photography, UI/UX Design and HiFi Audio
 * 🧠 Curious about Psychology, Philosophy and Sociology
-* 🌐 Enjoy exploring technology, creativity and human-centered experiences
-* 🛠️ I like building things that connect technology with real-world needs
+* 🛠️ Enjoy exploring technology, creativity and human-centered experiences
+* 🔧 I like building things that connect technology with real-world needs
 
 ## Research
 
